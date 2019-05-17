@@ -1,2 +1,1 @@
-# samsclub.github.io
-personal page blog
+Trying to write a blog.....
