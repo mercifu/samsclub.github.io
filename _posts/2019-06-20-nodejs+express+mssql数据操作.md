@@ -2,7 +2,7 @@
 layout:     post
 title:      nodejs + express + mssql 数据操作
 subtitle:
-description:  上一篇写了使用 mssql 模块访问数据库数据，这一篇就将 express 和 mssql 模块结合起来，写一个小的 web 应用。虽然这个 web 应用距离 微服务 应用还差很多...
+description:   express 和 mssql 模块结合
 date:       2019-06-20
 author:     Sam
 header-img: 

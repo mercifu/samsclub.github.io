@@ -2,7 +2,7 @@
 layout:     post
 title:      nodejs 使用 mssql 模块连接数据库
 subtitle: 
-description:  为了可以快速开发，给产品经理提供一个报告的 demo，我选用了现成的开源的后台管理系统 vue-element-admin。产品收集的数据存放在 mssql，所以就需要使用 nodejs 去连接 mssql。 
+description: 使用 nodejs 去连接 mssql
 date:       2019-06-14
 author:     Sam
 header-img: 
