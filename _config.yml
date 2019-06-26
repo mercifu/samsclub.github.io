@@ -1,9 +1,9 @@
 # Site settings
-title: MCBC Blog
-SEOTitle: 山姆俱乐部 | MCBC Blog
+title: MCBCFU Blog
+SEOTitle: 山姆俱乐部 | MCBCFU's Blog
 header-img: img/index-bg.jpg
 description: "...................."
-keyword: "Sam, MCBC Blog, 山姆俱乐部, 博客"
+keyword: "MCBCFU, MCBCFU Blog, Blog, 博客"
 email:  mercibeaucoupfu@gmail.com
 url: "http://mercifu.github.io"          # your host, for absolute URL
 baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
