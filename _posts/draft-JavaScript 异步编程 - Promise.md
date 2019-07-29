@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      JavaScript 异步编程
+title:      JavaScript 异步编程 - Promise
 subtitle:   
 date:       2019-07-25
 author:     Sam
@@ -11,4 +11,4 @@ tags:
     - JavaScript
 ---
 
-### JavaScript 异步编程
+### JavaScript 异步编程 - Promise
