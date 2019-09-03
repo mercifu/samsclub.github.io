@@ -10,6 +10,7 @@ tags:
     - 技术
     - JavaScript
 ---
+
 ```Javascript
 function automation (gen) {
     function continuer(verb, arg) {
